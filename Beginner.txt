@@ -1,0 +1,28 @@
+1. Điểm mạnh của bản thân 
+- Có khả năng giao tiếp bằng Tiếng Anh, học Tiếng Anh ở mức ổn. 
+- Em cảm thấy ở giai đoạn này mình chưa có điểm mạnh gì nổi trội hay đáng tự hào cả. Học tập vẫn ở mức bình thường 
+	và những gì em biết ở mức cơ bản mà thôi. 
+
+
+2. Điểm yếu của bản thân 
+- Khả năng tự viết code, tự nghĩ code vẫn còn kém. 
+
+3. Những kiến thức đã biết (Em mới chỉ dừng lại ở mức biết, mức cơ bản nhất thôi ạ) 
+- Các bước để Pentest 
+- Giao thức HTTP/HTTPS
+- Mô hình OSI , TCP/IP 
+- Các port thông dụng 
+- Một vài cơ chế mã hóa như Base64 Encoding, Hex Encoding, các hệ mã trong môn Nhập môn mật mã 
+- Top 10owasp (đọc nghiên cứu tài liệu, em chưa biết cách khai thác, cách phát hiện,...)
+- Code C, hiện tại em đang tự học thêm Python 
+- Dùng Git (em thường dùng bằng lệnh trên Gitbash) và Linux cơ bản 
+- Burpsuite thì em mới biết kết nối với trình duyệt, bắt gói tin, biết 1 số chức năng khi mà chơi CTF bài dễ ạ.
+	ví dụ : em hình dung sơ sơ về repeater, sửa gói tin gửi đi ở chỗ nào, em chưa học nhiều. 
+- Thực hành các lab trong DVWA (em cũng xem hướng dẫn rồi mới làm được, làm nhiều lần nên nhớ vẹt thôi ạ)
+- Postman với Nmap,... em chưa biết chữ gì ạ
+
+4. Về lập trình 
+- Khi lập trình em thường không tự code luôn mà viết ra giấy ý tưởng của mình
+- Sau đó code lại vào máy, nếu lỗi , không chạy được vài lần em search thuật toán tham khảo 
+- Sau đó code lại, nếu chạy được thì em bị mắc bệnh là không nghĩ thêm các trường hợp tối ưu nữa cho bài toàn đó. 
+
